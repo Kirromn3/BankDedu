@@ -308,3 +308,4 @@ game:GetService("Players").LocalPlayer.Character:PivotTo(CFrame.new(38.890762329
  wait()
 game:GetService("Players").LocalPlayer.Character:PivotTo(CFrame.new(38.153892517089844, 1.388648509979248, 965.1546630859375))
  wait()
+_G.FinishedBankTP = true
